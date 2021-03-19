@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 An artificial intelligence researcher
 - ❤️ Interested in deep learning and NLP
-- 🎓 Msc Computer Science (Tabriz University)
+- 🎓 Msc Computer Science
 <!--
 **miladvazan/miladvazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
