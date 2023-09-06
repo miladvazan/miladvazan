@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 Deep Learning Researcher
 - 📝 Author
-- ❤️ Interested in deep learning
 - 🎓 Msc Computer Science (Tabriz University)
 - 🎓 PhD student in Computer Science
 
