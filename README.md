@@ -4,7 +4,7 @@
 - 🎓 Msc Computer Science (Tabriz University)
 - 🎓 PhD student in Computer Science
 
-My name is Milad Vazan, and I am a passionate computer engineer and researcher specializing in deep learning and artificial intelligence. I hold a bachelor's degree in computer engineering from Payame Noor University and a master's degree in computer science with a focus on soft computing and artificial intelligence from University of Tabriz .
+My name is Milad Vazan, and I am a passionate computer engineer and researcher specializing in deep learning and artificial intelligence. I hold a bachelor's degree in computer engineering from Payame Noor University and a master's degree in computer science with a focus on soft computing and artificial intelligence from University of Tabriz.
 
 Throughout my academic journey, I have developed a strong foundation in computer science and a deep understanding of cutting-edge technologies. My passion for deep learning has driven me to contribute significantly to the field. I am the proud author of three books on deep learning and one book on machine learning, all written in the Persian language. These books aim to make complex concepts more accessible to Persian-speaking audiences and empower them to effectively utilize these technologies.
 
