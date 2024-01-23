@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Deep Learning Researcher
 - 📝 Author
-- 🎓 Msc Computer Science (Tabriz University)
+- 🎓 Msc Computer Science (University of Tabriz)
 <!--- 🎓 PhD student in Computer Science (Shahid Beheshti University)
 -->
 
